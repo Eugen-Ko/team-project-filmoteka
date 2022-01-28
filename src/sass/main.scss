@@ -1,0 +1,19 @@
+@import './utils/reset';
+@import './utils/variables';
+@import './utils/mixins';
+@import './utils/breakpoints';
+@import './utils/visually-hidden';
+
+@import './utils/up';
+@import './utils/spinner';
+@import './utils/pagination';
+@import './common/base';
+@import './common/container';
+@import './sections/header';
+@import './sections/films-container';
+@import './sections/movieCard';
+@import './sections/footer';
+@import './modals/modal-authorization';
+@import './modals/film-description-modal';
+@import './modals/footer-modal';
+@import './modals/_trailer-modal';
